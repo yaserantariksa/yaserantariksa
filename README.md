@@ -1,7 +1,8 @@
 ### Hi, I’m [A Yaser Antariksa](https://yaserantariksa.github.io/) 👋 
 - 👀 I’m interested in Mobile and Web Programming
+- 🐱‍👤 Stack : JavaScript ( React - React Native ) , Dart ( Flutter ), other PHP and Python
 - 🌱 I’m currently learning Mobile Development with Flutter and next I'm interested learning Python Automation and Data Science, Gambatte ..
-- 💞️ I’m looking to collaborate on Flutter Project
+- 💞️ I’m looking to collaborate on React and Flutter Project
 - 📫 How to reach me : Contact me at [Instagram](https://www.instagram.com/yaserantariksa/)
 
 <!---
