@@ -1,7 +1,7 @@
 ### Hi, I’m [A Yaser Antariksa](https://yaserantariksa.github.io/) 👋 
 - 👀 I’m interested in Web Programming
 - 🐱‍👤 Stack : Just React, Next, and Flutter
-- 🌱 I’m currently Programmer Enthusiast on 🔥, I'm interested learning Python Automation and Data Science, Gambatte ..
+- 🌱 I’m currently Coding Enthusiast on 🔥, I'm interested learning Python Automation and Data Science, Gambatte ..
 - 💞️ I’m looking to collaborate on React, Next, and Flutter Project
 - 📫 How to reach me : Contact me at [Instagram](https://www.instagram.com/yaserantariksa/)
 
