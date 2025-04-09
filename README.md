@@ -1,7 +1,7 @@
-### Hi, I’m [A Yaser Antariksa](https://yaserantariksa.github.io/) 👋 
+# Hi, I’m [A Yaser Antariksa](https://yaserantariksa.github.io/) 👋 
+
 - 👀 I’m interested in Web Programming
-- 🐱‍👤 Stack : Just Javascript and Python
-- 👨‍💻🎁 Fremework : Django, React
+- 🐱‍👤 Stack : Just Javascript, Python, and C#
 - 🧑‍💻 Hobby : Exploration with Programming Language
 - 🌱 I’m currently Coding Enthusiast on 🔥, I'm interested learning Python Automation and Data Science, Gambatte ..
 - 💞️ I’m looking to projects and collaborations
